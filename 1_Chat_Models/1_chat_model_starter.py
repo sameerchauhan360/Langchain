@@ -8,5 +8,3 @@ llm = ChatOpenAI(model = 'gpt-4o-mini')
 result = llm.invoke('What is root of 49')
 
 print(result.content)
-
-

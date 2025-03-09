@@ -42,3 +42,4 @@ while True:
 
     chat_history.add_ai_message(response)
     print(f"Assistant: {response}")
+    
